@@ -62,4 +62,3 @@ Credits
 
 Built with SwiftUI
 Powered by OpenAI's DALL-E 3
-Created by Brandon Neidlinger - definitely not a product of Spaceball Technologies!
